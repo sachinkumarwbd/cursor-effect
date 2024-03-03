@@ -78,4 +78,21 @@ font-weight: 100;font-style: normal;
  padding-left: 10vh;
 margin-top: -6vh;
 }
+@media screen and (max-width: 480px) {
+ .section h1{
+ 
+  font-size: 6vh;
+  display: inline-block;
+  margin-left: -15vh;
+ font-family: inter;
+ font-weight: 100;font-style: normal;
+ 
+  
+ }
+ .section p{
+  font-size: 3vh;
+  margin-left: -15vh;
+  
+
+ }
  
